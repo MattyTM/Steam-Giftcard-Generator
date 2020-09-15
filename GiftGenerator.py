@@ -1,10 +1,6 @@
 #This is a simple STEAM GiftCard generator Made by me :D
 #Im new in coding, if u want to help me: Matty#8952 (my discord)
-#Coded in 5/7/2020
-#Github: /MattyTM
-#Twitch: /matiduszkin
-#Feel free to use.
-#if u repost pls give credits :D
+#Coded in 5/9/2020
 import random
 import string
 import pathlib
